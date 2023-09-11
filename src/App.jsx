@@ -1,5 +1,5 @@
 import FeedbackOptions from 'components/Feedback/Feedback';
-import Notification from 'components/Notification/Notification';
+import { Notification } from 'components/Notification/Notification';
 import { Section } from 'components/Section/Section';
 import Statistics from 'components/Statistics/Statistics';
 
