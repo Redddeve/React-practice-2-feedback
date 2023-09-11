@@ -24,17 +24,18 @@ h2,
 h3,
 h4,
 h5,
-h6 {
+h6,
+p {
   list-style: none;
   padding: 0;
   margin: 0;
 }
 
 div {
-  display: grid;
+  display: flex;
   flex-direction: column;
   justify-items: center;
-  align-items: center;
+  align-items: flex-start;
   font-size: 20px;
   color: #010101;
 }
